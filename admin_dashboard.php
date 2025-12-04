@@ -26,7 +26,7 @@ if (isset($_GET['aksi']) && isset($_GET['id'])) {
 <html>
 <head>
     <title>Dashboard Admin SAP</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
